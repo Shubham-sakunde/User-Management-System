@@ -35,11 +35,11 @@ A comprehensive user management system built with Spring Boot and MongoDB, featu
 - `pom.xml`: Maven configuration file for dependencies.
 
 ## API Endpoints
-Register User: POST /api/users/register
-Login User: POST /api/users/login
-Update User: PUT /api/users/update
-Delete User: DELETE /api/users/delete/{email}
-Get Users List: GET /api/users/list
-Get User by Email: GET /api/users/{email}
+- `Register User`: POST /api/users/register.
+- `Login User`: POST /api/users/login.
+- `Update User`: PUT /api/users/update.
+- `Delete User`: DELETE /api/users/delete/{email}.
+- `Get Users List`: GET /api/users/list.
+- `Get User by Email`: GET /api/users/{email}.
 
 
