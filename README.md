@@ -3,7 +3,7 @@
 A comprehensive user management system built with Spring Boot and MongoDB, featuring functionalities for user registration, login, update, delete, and retrieval. The system is designed with RESTful APIs and includes robust validation and exception handling mechanisms.
 
 ## Features
-
+ 
 - **User Registration**: Allows new users to register with validated input fields.
 - **User Login**: Secure user login with validation and authentication.
 - **Update User**: Update user details without changing the unique email identifier.
