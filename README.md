@@ -5,7 +5,7 @@ A comprehensive user management system built with Spring Boot and MongoDB, featu
 ## Features
  
 - **User Registration**: Allows new users to register with validated input fields.
-- **User Login**: Secure user login with validation and authentication.
+- **User Login**: Secure user login with validation and authentication. 
 - **Update User**: Update user details without changing the unique email identifier.
 - **Delete User**: Deactivate user accounts without removing the data from the database.
 - **Get Users List**: Retrieve a list of all registered users.
