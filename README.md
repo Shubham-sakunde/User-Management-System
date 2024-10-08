@@ -11,7 +11,7 @@ A comprehensive user management system built with Spring Boot and MongoDB, featu
 - **Get Users List**: Retrieve a list of all registered users.
 - **Get User by Email**: Fetch user details based on the unique email identifier.
 - **Validation**: All API requests are validated to ensure data integrity.
-- **Exception Handling**: Centralized and consistent exception handling using Spring Boot.
+- **Exception Handling**: Centralized and consistent exception handling using Spring Boot. 
 
 ## Technologies Used
 
